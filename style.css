@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=SF+Pro+Display:wght@300;400;600&display=swap');
+
+body {
+    font-family: 'SF Pro Display', Arial, sans-serif;
+    background: rgba(10, 25, 50, 1); /* Solid Navy Blue */
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* ✨ Date & Time (No Box, Top-Right) */
+.date-time {
+    position: absolute;
+    top: 15px;
+    right: 20px;
+    font-size: 16px;
+    font-weight: 500;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+/* ✨ Glassmorphism Container */
+.container {
+    width: 450px;
+    padding: 30px;
+    background: rgba(255, 255, 255, 0.12);
+    backdrop-filter: blur(15px);
+    border-radius: 20px;
+    box-shadow: 0px 5px 30px rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    text-align: center;
+}
+
+/* ✨ Title */
+h1 {
+    font-size: 26px;
+    color: white;
+    font-weight: 600;
+    margin-bottom: 20px;
+    opacity: 0.9;
+}
+
+/* ✨ Input Box (No Animation) */
+input {
+    width: 85%;
+    padding: 14px;
+    font-size: 18px;
+    border: none;
+    border-radius: 10px;
+    margin: 12px 0;
+    background: rgba(255, 255, 255, 0.15);
+    color: white;
+    text-align: center;
+    outline: none;
+    backdrop-filter: blur(10px);
+}
+
+/* Placeholder */
+input::placeholder {
+    color: rgba(255, 255, 255, 0.7);
+    font-style: italic;
+}
+
+/* ✨ Button */
+button {
+    background: rgba(255, 255, 255, 0.2);
+    color: white;
+    border: none;
+    padding: 14px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 10px;
+    transition: 0.3s ease-in-out;
+    font-weight: bold;
+    backdrop-filter: blur(10px);
+}
+
+button:hover {
+    background: rgba(255, 255, 255, 0.4);
+    transform: scale(1.05);
+    box-shadow: 0 0 15px rgba(255, 255, 255, 0.4);
+}
+
+/* ✨ Result */
+#result {
+    font-size: 20px;
+    margin-top: 20px;
+    color: white;
+    font-weight: 400;
+    opacity: 0.9;
+}
+
+/* ✨ Footer */
+footer {
+    position: absolute;
+    bottom: 15px;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.6);
+    font-weight: 400;
+}
+
+/* ✨ Credits */
+.credits {
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.5);
+    font-weight: 400;
+    margin-top: 10px;
+}

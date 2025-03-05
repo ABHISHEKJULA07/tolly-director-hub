@@ -1,0 +1,82 @@
+[
+    {
+        "title": "SS Rajamouli",
+        "Number of films made": "12",
+        "highest collected movie": "Baahubali 2 (1810 Cr)",
+        "hit/flop": "12/0",
+        "awards": "20",
+        "upcoming project": "SSMB29"
+    },
+    {
+        "title": "Trivikram Srinivas",
+        "Number of films made": "10",
+        "highest collected movie": "Ala Vaikunthapurramuloo (280 Cr)",
+        "hit/flop": "9/1",
+        "awards": "7",
+        "upcoming project": "AA19"
+    },
+    {
+        "title": "Sukumar",
+        "Number of films made": "8",
+        "highest collected movie": "Pushpa: The Rise (1800 Cr)",
+        "hit/flop": "7/1",
+        "awards": "8",
+        "upcoming project": "Pushpa: The Rule"
+    },
+    {
+        "title": "Puri Jagannadh",
+        "Number of films made": "19",
+        "highest collected movie": "Pokiri (66 Cr)",
+        "hit/flop": "14/5",
+        "awards": "5",
+        "upcoming project": "Double iSmart"
+    },
+    {
+        "title": "Koratala Siva",
+        "Number of films made": "5",
+        "highest collected movie": "DEVARA (500 Cr)",
+        "hit/flop": "4/1",
+        "awards": "6",
+        "upcoming project": "Devara 2"
+    },
+    {
+        "title": "Boyapati Srinu",
+        "Number of films made": "9",
+        "highest collected movie": "Akhanda (200 Cr)",
+        "hit/flop": "7/2",
+        "awards": "4",
+        "upcoming project": "Akanda2"
+    },
+    {
+        "title": "Vamsi Paidipally",
+        "Number of films made": "6",
+        "highest collected movie": "Maharshi (175 Cr)",
+        "hit/flop": "5/1",
+        "awards": "3",
+        "upcoming project": "Not Announced"
+    },
+    {
+        "title": "Gopichand Malineni",
+        "Number of films made": "7",
+        "highest collected movie": "Krack (90 Cr)",
+        "hit/flop": "5/2",
+        "awards": "2",
+        "upcoming project": "NBK109"
+    },
+    {
+        "title": "Harish Shankar",
+        "Number of films made": "6",
+        "highest collected movie": "Gabbar Singh (150 Cr)",
+        "hit/flop": "5/1",
+        "awards": "3",
+        "upcoming project": "Ustaad Bhagat Singh"
+    },
+    {
+        "title": "Anil Ravipudi",
+        "Number of films made": "6",
+        "highest collected movie": "Sarileru Neekevvaru (260 Cr)",
+        "hit/flop": "6/0",
+        "awards": "5",
+        "upcoming project": "NBK109"
+    }
+]

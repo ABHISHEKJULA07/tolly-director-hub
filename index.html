@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Director Search</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="date-time" id="dateTime"></div>
+    
+    <div class="container">
+        <h1>Search Telugu Film Director</h1>
+        <input type="text" id="searchInput" placeholder="Enter Director's Name">
+        <button onclick="searchDirector()">Search</button>
+        
+        <div id="result"></div>
+    </div>
+
+    <footer>ABHISHEK JULA</footer>
+
+    <script>
+        function updateDateTime() {
+            const now = new Date();
+            document.getElementById("dateTime").textContent = now.toLocaleString();
+        }
+        setInterval(updateDateTime, 1000);
+    </script>
+
+    <script src="script.js"></script>
+</body>
+</html>
